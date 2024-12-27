@@ -6,7 +6,7 @@ This project implements a simple Rock Paper Scissors game using HTML, CSS, and J
 
 
 
-Features
+**Features**
 
 
 1.Interactive Gameplay:
@@ -31,7 +31,7 @@ A visually appealing interface with responsive design.
 
 
 
-File Structure
+**File Structure**
 
 
 index.html:
@@ -54,7 +54,7 @@ Includes the logic for the game mechanics and score calculation.
 
 
 
-How to Run
+**How to Run**
 
 
 1.Clone the repository to your local machine:
@@ -71,7 +71,7 @@ cd rock-paper-scissors
 
 
 
-How to Play
+**How to Play**
 
 1.Choose one of the three options: Rock, Paper, or Scissors.
 
@@ -91,7 +91,7 @@ How to Play
 
 
 
-Technologies Used
+**Technologies Used**
 
 HTML5: For structuring the game layout.
 
@@ -105,6 +105,6 @@ JavaScript (ES6): For game logic and interactivity.
 
 Preview
 
-
+![Game Screenshot](./ROCKPAPER.png)
 
 
